@@ -8,4 +8,3 @@ the Inclusive Naming Community workstream – please email ws-community@inclusiv
 
 | Name | Description | Link(s) | Demo date | Recording | 
 | --- | --- | --- | --- | --- | 
-| woke | Detect non-inclusive language in your source code. | https://github.com/get-woke/woke | August 16, 2021 | TBD |
