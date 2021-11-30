@@ -1,0 +1,26 @@
+## Scope of language addressed by the Inclusive Naming Initiative
+
+**Initial scope:** Code bases and technical content
+    
+**Secondary scope:** Language associated with code and technical content, such as marketing content, technical papers, conference material, technical talks.
+    
+**Additional scope or possibly out of scope:** General business language - this is already being covered by other groups (examples https://apastyle.apa.org/style-grammar-guidelines/bias-free-language and https://ncdj.org/style-guide/). There is the possibility of expanding to other domains, such as legal, only if they are not already being covered by other organizations and if we have representation from those domains.
+
+**Output:** An easily accessed and clear single source of truth with terms to avoid, use, or replace along with a set of best practices and principles.
+
+**Scope of terms:** The initial focus addresses terms that reinforce systemic discrimination in which a dominant group prevents or discourages the full social, economic, and political participation of other people based on their identity. This applies to terms that reflect systemic racism, as well as discrimination by sex, gender, and ability, and any other identity-based discrimination.
+
+These terms are described in the [LF framework](https://github.com/kubernetes/community/blob/master/wg-naming/language-evaluation-framework.md) as first order concerns:
+ - Is the term overtly racist?
+    Examples include “master/slave”.
+-   Is the term overtly sexist, transphobic, or pejorative about a gender identity?
+    Examples do not include “transclusion” of dependencies, or “binary” operators.
+-   Is the term overtly ableist, or pejorative to neurodiverse or disabled people
+    Examples include performing “sanity checks”.
+-   Is the term overtly homophobic?
+    Examples do not include “homogenizing” or “homogenous” data.
+
+**Priority of terms reviewed** The Language Workstream of the Inclusive Naming Initiative will prioritize the review of terms that are first order concerns as defined by the LF framework. 
+
+-   **Project board review**
+     [https://github.com/orgs/inclusivenaming/projects/2](https://github.com/orgs/inclusivenaming/projects/2)
