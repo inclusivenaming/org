@@ -7,11 +7,11 @@ January 2022
 | STONITH / STOMITH (Shoot the Other Node/Machine in the Head) | Replace        | ETON / ETOM (Erase the Other Node/Machine) |
 
 ## Term
-* STONITH (Shoot the Other Node in the Head; Shoot the Offending Node in the Head)
-* STOMITH (Shoot the Other Machine in the Head; Shoot the Offending Machine in the Head)
+* STONITH (Shoot the Other/Offending Node in the Head)
+* STOMITH (Shoot the Other/Offending Machine in the Head)
 
 ## Recommendation
-TBD (probably replace?)
+Replace
 
 ## Recommended Replacement Terms
 * ETON (Erase the Other/Offending Node)
