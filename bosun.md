@@ -8,7 +8,7 @@ INI meeting attendees will pick a new one for the next meeting at the end.
 - copy the template on the meeting agenda 
 2. Assign timeboxes. Guidance: anything not needing discussion should be 1 min each - 
 examples: voting, assigning. If it's a community member topic: ask.
-4. Post a call for discussion topics with draft agenda at least 3 business days with
+3. Post a call for discussion topics with draft agenda at least 3 business days with
 a clear cut off to the following places as reminders:
   - inclusivenaming@googlegroups.com, 
   - #general
@@ -26,8 +26,8 @@ if needed. Sometimes AV problems will require you to step in and present.
 1. Before recording the meeting, tell the group “This is an Inclusive Naming 
 Initiative meeting that will be posted publicly on YouTube, so please be mindful 
 that what you say is being recorded. Please also mute if you are not speaking.” 
-3. If the agenda has room, call on others to add topics and start recording.
-4. Encourage attendees to do roll call on the agenda. 
+2. If the agenda has room, call on others to add topics and start recording.
+3. Encourage attendees to do roll call on the agenda. 
 #### After recording starts:
 1. Hello! Welcome! [introduce yourself] This is the Inclusive Naming Initiative 
 biweekly public Meeting for [date].
@@ -35,7 +35,9 @@ biweekly public Meeting for [date].
   - DM you as bosun
 3. Ask for a note-taker if you don't have one and for folks to raise hands when
 they have discussion points or comments.
-4. Discuss that we may ask for further context, docs, etc. so that we can better
+4. Ask if there are new attendees to the meeting, and if they'd like to 
+introduce themselves.
+5. Discuss that we may ask for further context, docs, etc. so that we can better
 understand larger issues or items. If there is a case where we don’t have
 enough or not prepared, we will set up a separate meeting, bump to the mailing
 list for further conversation, or invite to another meeting.
