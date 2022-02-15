@@ -26,7 +26,8 @@ To prevent this, clusters often have capabilities to fence-off failed or unrespo
 The term refers to the action undertaken to deactivate, power down, or otherwise disable the failed node/machine.
 
 ## Rationale for Replacement
-STONITH and STOMITH use violent terminology. Since there are suitable alternatives that do not use violent language,
+STONITH and STOMITH use violent terminology.
+Since there are suitable alternatives that do not use violent language,
 the INI recommends replacing STONITH and STOMITH wherever possible.
 
 ## Notes and Ideas from Discussion
