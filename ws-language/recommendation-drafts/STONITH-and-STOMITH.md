@@ -22,7 +22,7 @@ TBD
 
 ## Use Context
 In computing clusters, a failed or unresponsive node/machine can disrupt the entire setup and put data at risk.
-To prevent this, clusters often have capabilities to fence off failed or unresponsive nodes/machines from the others by deactivating them.
+To prevent this, clusters often have capabilities to fence-off failed or unresponsive nodes/machines from the others by deactivating them.
 The term refers to the action undertaken to deactivate, power down, or otherwise disable the failed node/machine.
 
 ## Rationale for Replacement
