@@ -2,7 +2,7 @@
 
 This doc is a guide to help the delegated INI member perform the role of /bosun/ for the public meeting. 
 A bosun is person who organizes and conducts the meeting, borrowed from the [nautical term /boatswain/ or /bosun/](https://en.wikipedia.org/wiki/Boatswain)
-INI meeting attendees will pick a new one for the next meeting at the end.  
+INI meeting attendees will pick a new bosun for the next meeting at the end.
 
 ## Before / Prep for meeting 
 1. Create the skeleton meeting agenda:
